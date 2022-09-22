@@ -2,7 +2,6 @@ import axios from "axios";
 
 import {
   IAdressZipCode,
-  IInvalidZipCode,
   IConsultZipCodeProvider,
 } from "../IConsultZipCodeProvider";
 

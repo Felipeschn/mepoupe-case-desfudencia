@@ -11,9 +11,7 @@ export interface IAdressZipCode {
   siafi: string;
   erro?: string;
 }
-export interface IInvalidZipCode {
-  error: string;
-}
+
 export interface IConsultZipCodeProvider {
   consult(zipCode: number): Promise<IAdressZipCode>;
 }
