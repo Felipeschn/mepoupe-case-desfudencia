@@ -13,7 +13,8 @@
 
 ```bash
 # Clone this repository
-`$ docker-compose up`
+
+$ docker-compose up
 
 # Server will run on port:3333 - acesse <http://localhost:3333>
 ```
